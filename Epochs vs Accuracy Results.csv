@@ -1,0 +1,6 @@
+Epochs vs Accuracy(@noice_multiplier = 1.2)
+Epochs,Epsilon,Accuracy
+5,0.76,83.65%
+20,1.53,84.52%
+50,2.50,85.48%
+100,3.66,85.14%
